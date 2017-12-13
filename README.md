@@ -1,1 +1,2 @@
 # eruditejs
+version: 1
